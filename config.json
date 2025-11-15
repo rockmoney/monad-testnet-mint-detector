@@ -1,0 +1,5 @@
+{
+  "DISCORD_WEBHOOK": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+  "RPC": "https://testnet-rpc.monad.xyz",
+  "PORT": 3000
+}
